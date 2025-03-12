@@ -1,11 +1,52 @@
-# sales_dashboard
+# Super Store Sales Analysis Dashboard  
+
+## 📌 Objective  
+To contribute to the success of a business by utilizing data analysis techniques , specifically focusing on **Time Series Analysis**, to provide valuable insights and accurate **Sales Forecasting**.
+
+
+![Screenshot 2025-03-12 162426](https://github.com/user-attachments/assets/9bc18b7f-a945-4514-a574-4d1047a96ba1)
+
+
+
+## Description   
+- **Dashboard Creation**: Identify the KPIs, design an interactive dashboard that allows users to explore the data at various levels of granularity.  
+- **Data Analysis**: Provide valuable insights to businesses regarding the effectiveness of their sales strategies through visualization and charts.  
+- **Sales Forecasting**: Leverage historic data and aply time series to generate sales forecasts for the next 15 days.  
+- **Actionable Insights**: Harness insights that can drive strategic decision making and support the supermarket's goals for growth and efficiency.  
+
+## 📌 Learning 
+Incorporated data analysis techniques specializing in **time series analysis** to deliver valuable insights, accurate **sales forecasting**, and **ineractive dashboard** creation, driving business success.
+
+# Sales Forecasting on Historic Data
+
+
+![Screenshot 2025-03-12 162440](https://github.com/user-attachments/assets/29269829-562d-4ee6-bf6f-ffec2dd80365)
+
+*
+*
+*
+*
+*
+*
+*
+*
+
+
+
+
+
+
+
+
+
+
+
+# Madhav Ecommerce Sales Dashboard  
 
 
 ![Screenshot 2025-03-09 235041](https://github.com/user-attachments/assets/3219f1e6-ae1e-48c3-9ca8-44c84b9a6558)
 
 
-
-# Madhav Ecommerce Sales Dashboard  
 
 ## 📌 Overview  
 This Power BI dashboard provides a detailed analysis of ecommerce sales performance, offering insights into revenue, profit, customer trends, and product categories. It enables data-driven decision-making for optimizing sales and marketing strategies.  
@@ -35,22 +76,3 @@ Through this project, I gained valuable experience in:
 1. Clone this repository:  
    ```bash
    git clone https://github.com/yourusername/repository-name.git
-
-
-
-# sales_dashboard
-# Madhav Ecommerce Sales Dashboard  
-
-## 📌 Objective  
-To contribute to the success of a business by utilizing data analysis techniques , specifically focusing on **Time Series Analysis**, to provide valuable insights and accurate **Sales Forecasting**.
-
-
-
-## Description   
-- **Dashboard Creation**: Identify the KPIs, design an interactive dashboard that allows users to explore the data at various levels of granularity.  
-- **Data Analysis**: Provide valuable insights to businesses regarding the effectiveness of their sales strategies through visualization and charts.  
-- **Sales Forecasting**: Leverage historic data and aply time series to generate sales forecasts for the next 15 days.  
-- **Actionable Insights**: Harness insights that can drive strategic decision making and support the supermarket's goals for growth and efficiency.  
-
-
-
